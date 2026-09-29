@@ -1,5 +1,5 @@
 # ==============================================================================
-# deploy-stack.ps1 - Komplett Smart House Stack
+# kafka-stack.ps1 - Komplett Smart House Stack
 # Bridge (zigbee-herdsman / Matter.js) -> Kafka Partitioning -> Redis Aggregation
 # Application Layer (KafkaJS, RxJS, ws, THREE.js) | Kafka UI | HA | Zabbix 7.0
 # ==============================================================================
